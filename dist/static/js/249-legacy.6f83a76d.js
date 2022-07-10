@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkChinametalcraft"]=self["webpackChunkChinametalcraft"]||[]).push([[249],{2992:function(t,e,n){n.r(e),n.d(e,{default:function(){return l}});var a=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"page-wrapper"})},c=[],u={name:"ContactView",data:function(){return{}},computed:{},watch:{},created:function(){},mounted:function(){},methods:{}},r=u,i=n(1001),f=(0,i.Z)(r,a,c,!1,null,"1902354e",null),l=f.exports}}]);
+//# sourceMappingURL=249-legacy.6f83a76d.js.map

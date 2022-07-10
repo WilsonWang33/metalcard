@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkChinametalcraft"]=self["webpackChunkChinametalcraft"]||[]).push([[148],{8148:function(e,t,a){a.r(t),a.d(t,{default:function(){return i}});var n=function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"page-wrapper"})},r=[],u={name:"ProductsView",data(){return{}},computed:{},watch:{},created(){},mounted(){},methods:{}},c=u,s=a(1001),l=(0,s.Z)(c,n,r,!1,null,"7786a8b9",null),i=l.exports}}]);
+//# sourceMappingURL=148.b775fc4e.js.map
